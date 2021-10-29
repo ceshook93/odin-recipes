@@ -1,3 +1,7 @@
+p {
+    text-align: center;
+    font-family: "Courier New", "Lucida Handwriting", sans-serif
+}
 .recipe-title, .ingredients, .instructions {
     text-align: center;
     font-family: "Courier New", "Lucida Handwriting", sans-serif;

@@ -1,0 +1,16 @@
+.recipe-title, .ingredients, .instructions {
+    text-align: center;
+    font-family: "Courier New", "Lucida Handwriting", sans-serif;
+    color: rgb(200, 0, 200)
+}
+.foodporn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+ul, ol {
+    list-style-position: inside;
+    text-align: center;
+    font-family: "Courier New", "Lucida Handwriting", sans-serif
+}
